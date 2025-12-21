@@ -32,6 +32,15 @@ Yes! The best way to host your portfolio is to link **GitHub** with **Netlify**.
 *   Netlify will give you a URL (e.g., `adheeraj-portfolio.netlify.app`).
 *   **To Update**: Just make changes on your computer, commit, and push (`git push`). Netlify detects the change and updates the live site instantly!
 
+### Customizing: already have a manual site?
+If you already have a site on Netlify (from drag-and-drop) and want to keep its name/URL but switch to GitHub updates:
+1.  Go to your **Site Overview** in Netlify.
+2.  Click **"Site configuration"** (or "Site settings").
+3.  Click **"Build & deploy"** in the sidebar.
+4.  Click **"Link repository"**.
+5.  Choose **GitHub** and select your `My_Portfolio` repo.
+6.  This effectively "upgrades" your manual site to the automatic one without creating a duplicate!
+
 ---
 
 ## Option 2: GitHub Pages (Manual)
